@@ -4,23 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-orange)
 ![CUDA](https://img.shields.io/badge/CUDA-12.8-green)
-![Last commit](https://img.shields.io/github/last-commit/Icecream102/VisionLang)
-![Stars](https://img.shields.io/github/stars/Icecream102/VisionLang)
-
-> Badges give readers an at-a-glance snapshot of key project metadata —
-> license, toolchain versions, and maintenance status — so they can quickly
-> judge the project's maturity and compatibility without reading the whole
-> README. This is a common convention in mainstream open-source projects.
 
 A study of **LLaVA-style VLM training, evaluation, hallucination diagnosis,
 and GRPO alignment** (ViT-B/16 + MLP projector + Qwen2.5-3B + LoRA).
 
 ## About
-
-**The full pipeline**
-
-- Position: a research project covering the complete loop of
-  *training → standard evaluation → hallucination diagnosis → GRPO alignment*.
 - Phase 1 · Self-supervised representation & retrieval:
   - MAE self-supervised pretraining on unlabeled ImageNet100, with linear-probe
     transfer evaluation;
