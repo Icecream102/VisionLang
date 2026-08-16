@@ -1,0 +1,52 @@
+[
+ {
+  "image_id": 0,
+  "reference": "A person on a skateboard and bike at a skate park.",
+  "generated": "A man is standing on a street with his motorcycle."
+ },
+ {
+  "image_id": 1,
+  "reference": "a blue bike parked on a side walk ",
+  "generated": "A man is riding a skateboard on the street."
+ },
+ {
+  "image_id": 2,
+  "reference": "a couple of buckets in a white room",
+  "generated": "A large airplane flying over a body of water."
+ },
+ {
+  "image_id": 3,
+  "reference": "A small closed toilet in a cramped space.",
+  "generated": "A bathroom with a toilet, sink and shower."
+ },
+ {
+  "image_id": 4,
+  "reference": "a person sitting at a desk with a keyboard and monitor ",
+  "generated": "A man is sitting in a chair with his laptop."
+ },
+ {
+  "image_id": 5,
+  "reference": "A fluffy white chair that faces away fro a television.",
+  "generated": "A bathroom with a toilet, sink and shower."
+ },
+ {
+  "image_id": 6,
+  "reference": " a bench sitting in the grass facing the water and boats ",
+  "generated": "A man flying a kite on the beach."
+ },
+ {
+  "image_id": 7,
+  "reference": "A bus traveling down a curvy road behind a black car.",
+  "generated": "A man is riding a skateboard on the street."
+ },
+ {
+  "image_id": 8,
+  "reference": "A No bicycles, skates or skateboards sign on a pole.",
+  "generated": "A stop sign is shown in front of a building."
+ },
+ {
+  "image_id": 9,
+  "reference": "two giraffes are standing together outside a barn",
+  "generated": "A man is standing in front of a building."
+ }
+]

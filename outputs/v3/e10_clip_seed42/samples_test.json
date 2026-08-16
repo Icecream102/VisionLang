@@ -1,0 +1,52 @@
+[
+ {
+  "image_id": 0,
+  "reference": "A person on a skateboard and bike at a skate park.",
+  "generated": "A group of people riding skateboards on a street."
+ },
+ {
+  "image_id": 1,
+  "reference": "a blue bike parked on a side walk ",
+  "generated": "A bicycle parked on a sidewalk next to an open window."
+ },
+ {
+  "image_id": 2,
+  "reference": "a couple of buckets in a white room",
+  "generated": "A bathroom with a toilet, sink and shower."
+ },
+ {
+  "image_id": 3,
+  "reference": "A small closed toilet in a cramped space.",
+  "generated": "A toilet in a bathroom with an open door."
+ },
+ {
+  "image_id": 4,
+  "reference": "a person sitting at a desk with a keyboard and monitor ",
+  "generated": "A woman sitting at a computer desk with an open laptop."
+ },
+ {
+  "image_id": 5,
+  "reference": "A fluffy white chair that faces away fro a television.",
+  "generated": "A person sitting on a bed with an electronic device."
+ },
+ {
+  "image_id": 6,
+  "reference": " a bench sitting in the grass facing the water and boats ",
+  "generated": "A bench in the sand near a body of water."
+ },
+ {
+  "image_id": 7,
+  "reference": "A bus traveling down a curvy road behind a black car.",
+  "generated": "A group of people on a city street."
+ },
+ {
+  "image_id": 8,
+  "reference": "A No bicycles, skates or skateboards sign on a pole.",
+  "generated": "A street sign on a pole next to some buildings."
+ },
+ {
+  "image_id": 9,
+  "reference": "two giraffes are standing together outside a barn",
+  "generated": "Two giraffes are standing in a field."
+ }
+]

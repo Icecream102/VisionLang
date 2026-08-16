@@ -1,0 +1,20 @@
+{
+ "before": {
+  "accuracy": 0.202,
+  "num_questions": 1000,
+  "mean_pred_len": 13.949
+ },
+ "after": {
+  "accuracy": 0.207,
+  "num_questions": 1000,
+  "mean_pred_len": 13.621
+ },
+ "steps": 150,
+ "group_size": 4,
+ "beta": 0.05,
+ "final_kl": 0.0716012442111969,
+ "mean_reward": 0.22833333333333333,
+ "rl_prompts": 300,
+ "eval_questions": 1000,
+ "disjoint_splits": true
+}

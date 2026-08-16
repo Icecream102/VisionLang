@@ -1,0 +1,7 @@
+{
+  "chair_s": 0.2926829268292683,
+  "chair_i": 0.4379310344827586,
+  "model_dir": "lr1_clip_seed42",
+  "init": "clip",
+  "num_images": 300
+}

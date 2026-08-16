@@ -1,0 +1,20 @@
+{
+ "random": {
+  "accuracy": 0.5,
+  "yes_accuracy": 0.0,
+  "no_accuracy": 1.0,
+  "num_questions": 3000
+ },
+ "popular": {
+  "accuracy": 0.5,
+  "yes_accuracy": 0.0,
+  "no_accuracy": 1.0,
+  "num_questions": 3000
+ },
+ "adversarial": {
+  "accuracy": 0.5,
+  "yes_accuracy": 0.0,
+  "no_accuracy": 1.0,
+  "num_questions": 3000
+ }
+}

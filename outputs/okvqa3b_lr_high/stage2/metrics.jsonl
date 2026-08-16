@@ -1,0 +1,2 @@
+{"epoch": 1, "global_step": 564, "train_loss": 3.7003230107820038, "lr_proj": 0.0003427767748470566, "lr_lora": 0.00022851784989803776, "val_accuracy": 0.016, "val_num_questions": 500}
+{"epoch": 2, "global_step": 1128, "train_loss": 2.9359318775650243, "lr_proj": 5.9999999999999995e-05, "lr_lora": 4e-05, "val_accuracy": 0.148, "val_num_questions": 500}

@@ -1,0 +1,52 @@
+[
+ {
+  "image_id": 0,
+  "reference": "A person on a skateboard and bike at a skate park.",
+  "generated": "A man riding a skateboard down the side of stairs."
+ },
+ {
+  "image_id": 1,
+  "reference": "a blue bike parked on a side walk ",
+  "generated": "A man riding a skateboard down the side of stairs."
+ },
+ {
+  "image_id": 2,
+  "reference": "a couple of buckets in a white room",
+  "generated": "A man flying a kite on top of an open field."
+ },
+ {
+  "image_id": 3,
+  "reference": "A small closed toilet in a cramped space.",
+  "generated": "A bathroom with a sink and toilet."
+ },
+ {
+  "image_id": 4,
+  "reference": "a person sitting at a desk with a keyboard and monitor ",
+  "generated": "A man and woman are sitting on a couch."
+ },
+ {
+  "image_id": 5,
+  "reference": "A fluffy white chair that faces away fro a television.",
+  "generated": "A bathroom with a sink and toilet."
+ },
+ {
+  "image_id": 6,
+  "reference": " a bench sitting in the grass facing the water and boats ",
+  "generated": "A man flying a kite on top of green grass."
+ },
+ {
+  "image_id": 7,
+  "reference": "A bus traveling down a curvy road behind a black car.",
+  "generated": "A man riding a skateboard down the side of stairs."
+ },
+ {
+  "image_id": 8,
+  "reference": "A No bicycles, skates or skateboards sign on a pole.",
+  "generated": "A red double decker bus driving down a street."
+ },
+ {
+  "image_id": 9,
+  "reference": "two giraffes are standing together outside a barn",
+  "generated": "A pizza with toppings on a wooden table."
+ }
+]

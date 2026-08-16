@@ -1,0 +1,7 @@
+{
+  "chair_s": 0.5071428571428571,
+  "chair_i": 0.6506849315068494,
+  "model_dir": "lr1_mae_seed42",
+  "init": "mae",
+  "num_images": 300
+}

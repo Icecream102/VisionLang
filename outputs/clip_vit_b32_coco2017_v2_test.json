@@ -1,0 +1,15 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "manifest": "/root/autodl-tmp/multimodal/data/coco2017_val_test.jsonl",
+  "num_images": 2500,
+  "num_captions": 12506,
+  "metrics": {
+    "image_to_text_r1": 57.71999955177307,
+    "image_to_text_r5": 82.4400007724762,
+    "image_to_text_r10": 89.35999870300293,
+    "text_to_image_r1": 37.40604519844055,
+    "text_to_image_r5": 64.72093462944031,
+    "text_to_image_r10": 76.09947323799133,
+    "mean_recall": 67.95774201552074
+  }
+}

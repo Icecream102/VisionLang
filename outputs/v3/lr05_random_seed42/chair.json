@@ -1,0 +1,7 @@
+{
+  "chair_s": 0.6939890710382514,
+  "chair_i": 0.78,
+  "model_dir": "lr05_random_seed42",
+  "init": "random",
+  "num_images": 300
+}

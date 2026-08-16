@@ -1,0 +1,22 @@
+{
+  "data_root": "/root/autodl-tmp/datasets/imagenet100/imagenet100",
+  "val_root": null,
+  "val_fraction": 0.1,
+  "output_dir": "outputs/full_imagenet100_mae_tiny_r75",
+  "model_size": "tiny",
+  "image_size": 224,
+  "mask_ratio": 0.75,
+  "epochs": 100,
+  "batch_size": 128,
+  "accumulation_steps": 1,
+  "lr": 0.00015,
+  "weight_decay": 0.05,
+  "warmup_epochs": 10,
+  "num_workers": 8,
+  "seed": 42,
+  "device": null,
+  "amp": true,
+  "resume": null,
+  "save_every": 10,
+  "normalize_target": true
+}

@@ -1,0 +1,158 @@
+{
+ "okvqa": {
+  "seed42": {
+   "accuracy": 0.20947284978200556,
+   "mean_pred_len": 13.968489892984541,
+   "num_questions": 5046
+  },
+  "seed43": {
+   "accuracy": 0.1573523583036068,
+   "mean_pred_len": 13.06995640110979,
+   "num_questions": 5046
+  },
+  "seed44": {
+   "accuracy": 0.17063020214030916,
+   "mean_pred_len": 12.510107015457788,
+   "num_questions": 5046
+  },
+  "lr_low_1.5e-4": {
+   "accuracy": 0.08561236623067776,
+   "mean_pred_len": 14.48692033293698,
+   "num_questions": 5046
+  },
+  "lr_high_6e-4": {
+   "accuracy": 0.14308363059849386,
+   "mean_pred_len": 13.415774871185096,
+   "num_questions": 5046
+  }
+ },
+ "okvqa_seed_stats": {
+  "mean": 0.1791518034086405,
+  "std": 0.027085045211699004,
+  "n": 3
+ },
+ "gqa": {
+  "seed42": {
+   "accuracy": 0.1318969629511846,
+   "mean_pred_len": 7.853076800763238,
+   "num_questions": 12578
+  },
+  "seed43": {
+   "accuracy": 0.13968834472889172,
+   "mean_pred_len": 7.2870885673398,
+   "num_questions": 12578
+  },
+  "seed44": {
+   "accuracy": 0.11138495786293529,
+   "mean_pred_len": 7.065193194466529,
+   "num_questions": 12578
+  }
+ },
+ "gqa_seed_stats": {
+  "mean": 0.12765675518100386,
+  "std": 0.01462036075039616,
+  "n": 3
+ },
+ "pope": {
+  "qa_clip_seed42": {
+   "random": {
+    "accuracy": 0.8336666666666667,
+    "yes_accuracy": 0.7773333333333333,
+    "no_accuracy": 0.89,
+    "num_questions": 3000
+   },
+   "popular": {
+    "accuracy": 0.7363333333333333,
+    "yes_accuracy": 0.7773333333333333,
+    "no_accuracy": 0.6953333333333334,
+    "num_questions": 3000
+   },
+   "adversarial": {
+    "accuracy": 0.648,
+    "yes_accuracy": 0.7766666666666666,
+    "no_accuracy": 0.5193333333333333,
+    "num_questions": 3000
+   }
+  },
+  "qa_clip_seed43": {
+   "random": {
+    "accuracy": 0.7976666666666666,
+    "yes_accuracy": 0.6806666666666666,
+    "no_accuracy": 0.9146666666666666,
+    "num_questions": 3000
+   },
+   "popular": {
+    "accuracy": 0.688,
+    "yes_accuracy": 0.68,
+    "no_accuracy": 0.696,
+    "num_questions": 3000
+   },
+   "adversarial": {
+    "accuracy": 0.6216666666666667,
+    "yes_accuracy": 0.6793333333333333,
+    "no_accuracy": 0.564,
+    "num_questions": 3000
+   }
+  },
+  "okvqa3b_stage2": {
+   "random": {
+    "accuracy": 0.5806666666666667,
+    "yes_accuracy": 0.2833333333333333,
+    "no_accuracy": 0.878,
+    "num_questions": 3000
+   },
+   "popular": {
+    "accuracy": 0.5763333333333334,
+    "yes_accuracy": 0.29,
+    "no_accuracy": 0.8626666666666667,
+    "num_questions": 3000
+   },
+   "adversarial": {
+    "accuracy": 0.559,
+    "yes_accuracy": 0.28933333333333333,
+    "no_accuracy": 0.8286666666666667,
+    "num_questions": 3000
+   }
+  },
+  "okvqa3b_s43_stage2": {
+   "random": {
+    "accuracy": 0.5443333333333333,
+    "yes_accuracy": 0.14466666666666667,
+    "no_accuracy": 0.944,
+    "num_questions": 3000
+   },
+   "popular": {
+    "accuracy": 0.567,
+    "yes_accuracy": 0.162,
+    "no_accuracy": 0.972,
+    "num_questions": 3000
+   },
+   "adversarial": {
+    "accuracy": 0.5413333333333333,
+    "yes_accuracy": 0.164,
+    "no_accuracy": 0.9186666666666666,
+    "num_questions": 3000
+   }
+  },
+  "okvqa3b_s44_stage2": {
+   "random": {
+    "accuracy": 0.65,
+    "yes_accuracy": 0.49133333333333334,
+    "no_accuracy": 0.8086666666666666,
+    "num_questions": 3000
+   },
+   "popular": {
+    "accuracy": 0.6696666666666666,
+    "yes_accuracy": 0.5033333333333333,
+    "no_accuracy": 0.836,
+    "num_questions": 3000
+   },
+   "adversarial": {
+    "accuracy": 0.6143333333333333,
+    "yes_accuracy": 0.49933333333333335,
+    "no_accuracy": 0.7293333333333333,
+    "num_questions": 3000
+   }
+  }
+ }
+}

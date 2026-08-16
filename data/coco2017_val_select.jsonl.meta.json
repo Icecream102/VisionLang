@@ -1,0 +1,8 @@
+{
+  "source": "/root/autodl-tmp/multimodal/data/coco2017_val.jsonl",
+  "seed": 42,
+  "test_fraction": 0.5,
+  "num_validation_images": 2500,
+  "num_test_images": 2500,
+  "split_unit": "image"
+}

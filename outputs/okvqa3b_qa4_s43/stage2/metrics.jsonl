@@ -1,0 +1,4 @@
+{"epoch": 1, "global_step": 740, "train_loss": 2.861671047568563, "lr_proj": 0.00026709649102882137, "lr_lora": 0.0001780643273525476, "val_accuracy": 0.6666666666666666, "val_yes_accuracy": 0.0, "val_no_accuracy": 1.0}
+{"epoch": 2, "global_step": 1480, "train_loss": 2.8873774548331332, "lr_proj": 0.0001714950753507367, "lr_lora": 0.00011433005023382448, "val_accuracy": 0.6666666666666666, "val_yes_accuracy": 0.0, "val_no_accuracy": 1.0}
+{"epoch": 3, "global_step": 2220, "train_loss": 2.8051888671898215, "lr_proj": 7.186524593995391e-05, "lr_lora": 4.791016395996928e-05, "val_accuracy": 0.42333333333333334, "val_yes_accuracy": 0.79, "val_no_accuracy": 0.24}
+{"epoch": 4, "global_step": 2960, "train_loss": 2.7524537001210665, "lr_proj": 2.9999999999999997e-05, "lr_lora": 2e-05, "val_accuracy": 0.4066666666666667, "val_yes_accuracy": 0.77, "val_no_accuracy": 0.225}

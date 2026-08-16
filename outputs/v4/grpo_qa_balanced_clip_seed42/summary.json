@@ -1,0 +1,17 @@
+{
+ "before": {
+  "accuracy": 0.8666666666666667,
+  "yes_accuracy": 0.81,
+  "no_accuracy": 0.895
+ },
+ "after": {
+  "accuracy": 0.8866666666666667,
+  "yes_accuracy": 0.89,
+  "no_accuracy": 0.885
+ },
+ "steps": 150,
+ "group_size": 8,
+ "beta": 0.05,
+ "final_kl": 0.1733321362733841,
+ "mean_reward": 0.858125
+}

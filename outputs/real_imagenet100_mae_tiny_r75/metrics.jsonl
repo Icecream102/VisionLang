@@ -1,0 +1,3 @@
+{"epoch": 1, "train_masked_mse": 1.071681902331, "learning_rate": 1.5016835016835014e-05, "global_step": 891, "val_masked_mse": 0.8808340351990979}
+{"epoch": 2, "train_masked_mse": 0.7801606323983934, "learning_rate": 3.0016835016835013e-05, "global_step": 1782, "val_masked_mse": 0.752688080072403}
+{"epoch": 3, "train_masked_mse": 0.720739451589274, "learning_rate": 4.501683501683501e-05, "global_step": 2673, "val_masked_mse": 0.7314240583265671}

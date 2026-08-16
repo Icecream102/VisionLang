@@ -1,0 +1,12 @@
+{
+  "checkpoint": "best.pt",
+  "selection_manifest": "/root/autodl-tmp/multimodal/data/coco2017_val_select.jsonl",
+  "test_manifest": "/root/autodl-tmp/multimodal/data/coco2017_val_test.jsonl",
+  "image_to_text_r1": 7.159999758005142,
+  "image_to_text_r5": 20.160000026226044,
+  "image_to_text_r10": 29.240000247955322,
+  "text_to_image_r1": 5.445386096835136,
+  "text_to_image_r5": 17.27970540523529,
+  "text_to_image_r10": 25.755637884140015,
+  "mean_recall": 17.50678823639949
+}

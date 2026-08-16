@@ -1,0 +1,22 @@
+{
+  "init_checkpoint": "outputs/okvqa3b/stage2",
+  "qa_val_manifest": "data/okvqa/okvqa_val.jsonl",
+  "image_root": "data/okvqa",
+  "output_dir": "outputs/okvqa3b_grpo_v3",
+  "model_name": "Qwen/Qwen2.5-3B",
+  "prompts": 300,
+  "eval_limit": 1000,
+  "group_size": 4,
+  "batch_prompts": 2,
+  "grad_chunk": 2,
+  "epochs": 1,
+  "max_new_tokens": 32,
+  "temperature": 1.2,
+  "top_p": 0.95,
+  "beta": 0.05,
+  "lr": 2e-05,
+  "grad_clip_norm": 1.0,
+  "seed": 42,
+  "log_every": 10,
+  "init": "clip"
+}

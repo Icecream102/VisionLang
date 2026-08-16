@@ -1,0 +1,22 @@
+{
+  "init_checkpoint": "outputs/v3/qa_clip_seed42",
+  "qa_train_manifest": "data/coco2017_recognition_train.jsonl",
+  "qa_val_manifest": "data/coco2017_recognition_val.jsonl",
+  "image_root": "/root/autodl-tmp/datasets/coco",
+  "output_dir": "outputs/v4/grpo_qa_clip_seed42",
+  "model_name": "Qwen/Qwen2-0.5B",
+  "prompts": 600,
+  "group_size": 8,
+  "batch_prompts": 4,
+  "grad_chunk": 4,
+  "epochs": 1,
+  "max_new_tokens": 8,
+  "temperature": 1.2,
+  "top_p": 0.95,
+  "beta": 0.05,
+  "lr": 2e-05,
+  "grad_clip_norm": 1.0,
+  "eval_limit": 300,
+  "seed": 42,
+  "log_every": 10
+}

@@ -1,0 +1,7 @@
+{
+  "chair_s": 0.29056603773584905,
+  "chair_i": 0.397212543554007,
+  "model_dir": "lora_r16_clip_seed42",
+  "init": "clip",
+  "num_images": 300
+}
